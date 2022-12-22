@@ -1,12 +1,11 @@
-package com.example.layouts1.statesimple
+package com.example.parcelable
 
 import android.graphics.Color
 import android.os.Bundle
 import android.view.View
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.content.ContextCompat
-import com.example.layouts1.R
-import com.example.layouts1.databinding.ActivityCounterBinding
+import com.example.parcelable.databinding.ActivityCounterBinding
 import kotlin.properties.Delegates.notNull
 import kotlin.random.Random
 

@@ -1,4 +1,4 @@
-package com.example.layouts1
+package com.example.parcelable
 
 import org.junit.Test
 

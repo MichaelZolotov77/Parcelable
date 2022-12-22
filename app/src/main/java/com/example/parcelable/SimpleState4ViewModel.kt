@@ -1,4 +1,4 @@
-package com.example.layouts1.statesimple
+package com.example.parcelable
 
 import android.graphics.Color
 import androidx.lifecycle.LiveData

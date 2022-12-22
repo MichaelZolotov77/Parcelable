@@ -1,4 +1,4 @@
-package com.example.layouts1.statesimple
+package com.example.parcelable
 
 import android.os.Bundle
 import android.view.View
@@ -6,9 +6,8 @@ import androidx.activity.viewModels
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.content.ContextCompat
 import androidx.lifecycle.Observer
-import com.example.layouts1.R
-import com.example.layouts1.databinding.ActivityCounterBinding
-import com.example.layouts1.statesimple.SimpleState4ViewModel.State
+import com.example.parcelable.databinding.ActivityCounterBinding
+import com.example.parcelable.SimpleState4ViewModel.State
 
 class SimpleState4Activity: AppCompatActivity() {
 

@@ -1,11 +1,11 @@
-package com.example.layouts1.statesimple
+package com.example.parcelable
 
 import android.graphics.Color
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View.INVISIBLE
 import android.view.View.VISIBLE
-import com.example.layouts1.databinding.ActivityCounterBinding
+import com.example.parcelable.databinding.ActivityCounterBinding
 import kotlin.random.Random
 
 class SimpleState1Activity : AppCompatActivity() {
